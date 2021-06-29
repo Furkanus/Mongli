@@ -1,0 +1,120 @@
+/* 
+  Turkish.strings
+  Mongli
+
+  Created by Furkan Hanci on 6/29/21.
+  Copyright © 2021 DaEun Kim. All rights reserved.
+*/
+
+
+
+"CFBundleDisplayName" = "Mongli";
+
+// Basic Error
+"unknownErrorMsg" = "Bilinmeyen Hata :/";
+"badRequestErrorMsg" = "Geçersiz istek :/";
+"unauthorizedErrorMsg" = "Doğrulanmamış Kullanıcı";
+"notFoundErrorMsg" = "Bulunamadı";
+"serverErrorMsg" = "Sunucu Hatası";
+"timeoutErrorMsg" = "Istek zaman aşımına uğradı";
+
+// Custom Error
+"notFoundUserErrorMsg" = "Bilinmeyen Kullanıcı";
+"userConflictErrorMsg" = "Bu kullanıcı zaten mevcut";
+"notFoundUserForcedLogoutMsg" = "Kullanıcı bilgilerinizi bulamadığınız için zorla çıkarıldınız.";
+"userConflictForcedLogoutMsg" = "Başka bir kullanıcı giriş yaptığı için zorla çıkarıldınız.";
+
+// Common
+"mongli" = "Mongli";
+"mongliSubtitle" = ":hayal ederken";
+"cancel" = "İptal";
+"delete" = "Sil";
+"select" = "Seç";
+"done" = "Bitti";
+"continue" = "Devam";
+"close" = "Kapat";
+"retryMsg" = "Lütfen tekrar dene";
+"deletedMsg" = "Silinde";
+"deleteDreamDesc" = "Silinen hayaller geri gelemez\nSilmek için emin misin?";
+"cancelDreamDesc" = "Yazdığınız hayaller kaydedilmeyecek\nYazmayı iptal etmeye emin misin?";
+"endDateText" = "Bu hizmet 19 Mart 2021 de sonladırılabilir";
+
+// Tab bar
+"home" = "Ana Sayfa";
+"search" = "Ara";
+"more" = "Daha Fazla";
+
+// Placeholder
+"noContentPlaceholder" = "Hiç hayalin yok...";
+"noSearchedContentPlaceholder" = "Sonuç bulunamadı...";
+"dreamTitlePlaceholder" = "Lütfen değerli hayaliniz için başlık girin";
+"dreamContentPlaceholder" = "Lütfen hayalinizi girin";
+"renamePlaceholder" = "Yeni isim";
+
+// Category
+"category" = "Kategori";
+"categoryInfoText" = "Kategori nedir?";
+"categoryInfoDesc" = "There are many different kinds of dreams\nMongli offers\neight representative dreams\nas categories among the various dreams";
+"eightDreams" = "sekiz";
+"red" = "Kabus";
+"orange" = "Şanslı";
+"yellow" = "Önsezili";
+"green" = "Olumsuz";
+"blue" = "Gebe";
+"teal" = "Berrak";
+"indigo" = "Hayal içinde hayal";
+"purple" = "Diğer";
+"redText" = "Uğursuz";
+"orangeText" = "İyi";
+"yellowText" = "Ne olacağına dair bir hayal";
+"greenText" = "Gerçek hayal";
+"blueText" = "Çocuk doğuracağınızı söyleyen hayal";
+"tealText" = "Hayal olduğunu kendi kendine fark ederken gördüğün bir hayal";
+"indigoText" = "Hayalde hayal görmek";
+"purpleText" = "Yukaridaki hayal türüne ait olmayan bir hayal";
+
+// DateFormat
+"dreamAdverb" = "Rüyası ";
+"allTheDreamsAdverb" = "Tüm haylleri ";
+"calendarHeaderDateFormat" = "MMMM yyyy";
+"dateFormat" = "MMMM d, yyyy";
+
+// Home
+"deleteAllDream" = "Tüm hayalleri sil";
+
+// Dream
+"createDream" = "Yaz";
+"deleteDream" = "Sil";
+"updateDream" = "Düzenle";
+"titleCountIsOverDesc" = "Başlık 20 karakterden uzun olamaz";
+
+// Search
+"searchText" = "Hayalini ortaya çıkar";
+"searchPlaceholder" = "Hayal ara";
+"searchFilterText" = "Arama filtersini ayarla";
+"criteria" = "Kriterler";
+"sort" = "Sırala";
+"period" = "Zaman dilimi";
+"title" = "başlık";
+"content" = "içerik";
+"noKeyword" = "Anather kelime yok";
+"newest" = "En yeni";
+"alphabetically" = "Alfabetksel";
+"notSelect" = "Seç";
+"startDate" = "Başlangıç Tarihi";
+"endDate" = "Bitiş Tarihi";
+"periodText" = "Etkili olması için hem başlangıç hem de bitiş tarihi seçmelisiniz";
+"numberOfDreamsText" = " Hayaller";
+
+// More
+"moreText" = "has dreamed \n%d dreams so far!";
+"contact" = "Bize ulaş";
+"opensourceLisence" = "Açık kaynak lisansı";
+"accountManagement" = "Hesap yönetimi";
+"logout" = "Çıkış yap";
+"deleteUser" = "Hesabı sil";
+"deleteUserDesc" = "Hesap ve o ana kadar kaydedilen tüm rüyalar silinecek\nSilinen rüyalar geri yüklenemez\nApple Kimliği > Şifre ve Güvenlik > Apple Kimliği girişleri > Mongli\nApple Kimliğini kullanmayı durduracak ve uygulamaya dönecek şekilde ayarlayın\nhesabınız silinecek";
+"secession" = "Sil";
+"rename" = "Yeniden adlandır";
+"renameDesc" = "Lütfen görüntülenecek yeni bir ad girin";
+"change" = "Değiştir";

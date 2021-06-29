@@ -18,7 +18,7 @@ class MoreViewController: BaseViewController, View {
 
   // MARK: Properties
 
-  private var isMenuOpend = false
+    private var isMenuOpend : Bool = false
 
   // MARK: UI
 

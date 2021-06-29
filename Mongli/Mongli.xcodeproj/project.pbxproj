@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3DCE17D7778FA759B09C2E49 /* Pods_Mongli.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D91CE847018A2125172549A /* Pods_Mongli.framework */; };
+		70896D14268BAA3B00F94C3B /* Turkish.strings in Resources */ = {isa = PBXBuildFile; fileRef = 70896D13268BAA3B00F94C3B /* Turkish.strings */; };
 		74492B166BA435CC3A967352 /* Pods_MongliTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B839494DEDC6F490336E6031 /* Pods_MongliTests.framework */; };
 		BF064CC72452BAFF003D2C87 /* FloatingItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0E8D824460821000D3C17 /* FloatingItem.swift */; };
 		BF064CC924546F3E003D2C87 /* UIAlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF064CC824546F3E003D2C87 /* UIAlertController.swift */; };
@@ -122,6 +123,7 @@
 /* Begin PBXFileReference section */
 		0D91CE847018A2125172549A /* Pods_Mongli.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mongli.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FC16AFACA234A05573030B5 /* Pods-Mongli.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mongli.release.xcconfig"; path = "Target Support Files/Pods-Mongli/Pods-Mongli.release.xcconfig"; sourceTree = "<group>"; };
+		70896D13268BAA3B00F94C3B /* Turkish.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Turkish.strings; sourceTree = "<group>"; };
 		B839494DEDC6F490336E6031 /* Pods_MongliTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MongliTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCBCB1D1B35A99011F0A4783 /* Pods-Mongli-MongliUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mongli-MongliUITests.release.xcconfig"; path = "Target Support Files/Pods-Mongli-MongliUITests/Pods-Mongli-MongliUITests.release.xcconfig"; sourceTree = "<group>"; };
 		BF064CC824546F3E003D2C87 /* UIAlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIAlertController.swift; sourceTree = "<group>"; };
@@ -371,6 +373,7 @@
 				BF44547B241E3FFA00632E38 /* Assets.xcassets */,
 				BF44547D241E3FFA00632E38 /* LaunchScreen.storyboard */,
 				BF4454DA24225C3000632E38 /* Localizable.strings */,
+				70896D13268BAA3B00F94C3B /* Turkish.strings */,
 				BFBFB63B2432E1A500C15CDD /* privateKey */,
 			);
 			path = Resource;
@@ -737,6 +740,7 @@
 				BF4454D824225C3000632E38 /* Localizable.strings in Resources */,
 				BF4455182424E87000632E38 /* 12롯데마트행복Bold.ttf in Resources */,
 				BF44551A2424E87500632E38 /* 12롯데마트행복Medium.ttf in Resources */,
+				70896D14268BAA3B00F94C3B /* Turkish.strings in Resources */,
 				BFBFB63A2432D24600C15CDD /* GoogleService-Info.plist in Resources */,
 				BF4455192424E87200632E38 /* 12롯데마트행복Light.ttf in Resources */,
 			);

@@ -15,7 +15,7 @@ extension DDLogFlag {
     case DDLogFlag.warning: return "💛 WARNING"
     case DDLogFlag.info: return "💙 INFO"
     case DDLogFlag.debug: return "💚 DEBUG"
-    case DDLogFlag.verbose: return "💜 VERBOSE"
+    case DDLogFlag.verbose: return "🖤 VERBOSE"
     default: return "☠️ UNKNOWN"
     }
   }
@@ -121,7 +121,7 @@ final class Logger {
   private func message(from items: [Any]) -> String {
     return items
       .map { String(describing: $0) }
-      .joined(separator: " ")
+      .joined(separator: "/n")
   }
 
 }
